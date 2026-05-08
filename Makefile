@@ -7,4 +7,4 @@ run:
 	qemu-system-i386 -drive format=raw,file=os.bin
 
 clean:
-	rm -f boot.bin kernel.bin os.bin
+	rm -f boot.bin kernel.bin os.binMakefile
